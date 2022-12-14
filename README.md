@@ -20,7 +20,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EastZero123&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- https://www.notion.so/04bba7b72cdd444ba8ad0a4434566d7e?v=44c05740e6da4c258cfc138fa3c43b28 -->
 <!--
 **EastZero123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
