@@ -3,7 +3,7 @@
 <div align="center">
   <h1 class="title">Visit My Site</h1>
   <h5><a href="https://eastzero123.github.io/">https://eastzero123.github.io/</a></h5>
-  <h5><a href="http://104.196.153.46:8080/">GCE(Google Cloud Engine) 배포 사이트</a></h5>
+  <h5><a href="http://35.185.124.12:8080/">GCE(Google Cloud Engine) 배포 사이트</a></h5>
   
   <hr />
 <h1> FRONT-END <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
