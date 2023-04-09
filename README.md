@@ -17,6 +17,8 @@
 
 <h1> DBMS <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a> </h1>
 
+<h1> AI <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a> </h1>
+
 <br/><br/>
 
 <h1>My Dream Car <img src="https://img.shields.io/badge/롤스로이스-281432?style=flat-square&logo=Rolls-Royce&logoColor=white"/></a> </h1>
